@@ -1,16 +1,18 @@
-# saude_facil_inovatech
+# Saúde Fácil (Inovatech 2025)
 
-A new Flutter project.
+O projeto Saúde Fácil propõe o desenvolvimento de uma plataforma digital interativa
+para a área da saúde, focada no atendimento emergencial, urgência e primeiros socorros.
+A iniciativa surge da necessidade de otimizar o tempo de resposta em situações críticas,
+dada a dificuldade da comunicação inicial nos canais tradicionais de socorro e a
+desigualdade na cobertura do SAMU 192.
 
-## Getting Started
+O sistema integra um chatbot especializado que simula um assistente de triagem de
+urgência, com acionamento direto para o serviço de emergência 190. A metodologia de
+desenvolvimento utiliza SCRUM e tecnologias web (HTML5, CSS3, JS), priorizando o
+design centrado no usuário (Garrett, 2011) e a Responsividade Mobile-First.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Os resultados parciais demonstram a viabilidade de oferecer atendimento virtual 24h
+e otimizar o despacho, garantindo a localização rápida de hospitais via API de
+Geolocalização e o fornecimento imediato de orientações de triagem. A plataforma se
+apresenta como uma contribuição tecnológica de alto impacto social, transformando a
+comunicação de emergência em um processo estruturado, ágil e acessível.
