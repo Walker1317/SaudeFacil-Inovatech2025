@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170917901787",
+    "project_id": "saude-facil-inovatech-13462",
+    "storage_bucket": "saude-facil-inovatech-13462.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170917901787:android:58c45e6c1ed9edef7ee3fe",
+        "android_client_info": {
+          "package_name": "com.example.saude_facil_inovatech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmjlbS7ooT8pvkd13B9AVrfgGrGSveD_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

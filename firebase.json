@@ -1,0 +1,44 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "saude-facil-inovatech-13462",
+          "appId": "1:170917901787:android:58c45e6c1ed9edef7ee3fe",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "saude-facil-inovatech-13462",
+          "configurations": {
+            "android": "1:170917901787:android:58c45e6c1ed9edef7ee3fe",
+            "ios": "1:170917901787:ios:c5ee29c765c2b5027ee3fe",
+            "web": "1:170917901787:web:8d95ed4080c942417ee3fe"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ],
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
