@@ -385,7 +385,7 @@ class _PulsatingCircleIconButtonState extends State<PulsatingCircleIconButton> w
               children: [
                 widget.icon,
                 const SizedBox(height: 10,),
-                Text("Acionar 190", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24, color: Colors.white),)
+                Text("Acionar 192", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24, color: Colors.white),)
               ],
             ),
           );
