@@ -120,7 +120,7 @@ class _HomeViewState extends State<HomeView> {
                                 ),
                                 const SizedBox(height: 10,),
                                 Text(
-                                  "Acionando 190",
+                                  "Acionando 192",
                                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
                                 ),
                                 Text(
